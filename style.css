@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: purple;
+}
+
+h4 {
+    color: orange;
+}
+
+h5 {
+    color: brown;
+}
+
+h6 {
+    color: darkred;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color: red;
+}
